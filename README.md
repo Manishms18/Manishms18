@@ -1,8 +1,3 @@
-# 🚀 Manish A. Shukla  
-*Independent Researcher | AI & Data Science | Explainable AI | Agentic Systems*   
-
----
-
 ## 👋 Welcome!  
 I am an **Independent Researcher** specializing in **Artificial Intelligence, Machine Learning, and Data Science**.  
 My work emphasizes:  
