@@ -16,14 +16,6 @@ I aim to bridge **theory and practice**, making AI systems **transparent, impact
 
 ---
 
-## 🔬 Research Highlights  
-- 📑 Authored multiple peer-reviewed papers and preprints in **explainable AI, forecasting, and agentic AI**.  
-- 💡 Proposed frameworks for **Hybrid LIME + SHAP interpretations**, **Dynamic Goal Drift Modeling**, and **Trust Decay Curves**.  
-- 🌍 Contributions applied to **aviation, energy, retail, and healthcare forecasting**.  
-- 📖 Disseminated work via **arXiv, Research Square, Medium, and GitHub open-source repos**.  
-
----
-
 ## 🛠️ Featured Projects  
 
 ### 🧠 [Sign Language Interpreter using Deep Learning](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning)  
@@ -45,12 +37,5 @@ I aim to bridge **theory and practice**, making AI systems **transparent, impact
 
 ## 📈 GitHub Stats  
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishms18&show_icons=true&theme=default)  
-
----
-
-## 📫 Let’s Connect  
-- 🌐 Website: [www.manishshukla.com](https://www.manishshukla.com)  
-- 📩 Email: [manishshukla.ms18@gmail.com](mailto:manishshukla.ms18@gmail.com)  
-- 🔗 ORCID: [0009-0005-1093-5816] (https://orcid.org/0009-0005-1093-5816) 
 
 ---
