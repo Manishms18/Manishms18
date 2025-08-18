@@ -34,8 +34,3 @@ I aim to bridge **theory and practice**, making AI systems **transparent, impact
 - Integrated **SHAP, LIME, and Permutation Importance** for transparent results.  
 
 ---
-
-## 📈 GitHub Stats  
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishms18&show_icons=true&theme=default)  
-
----
