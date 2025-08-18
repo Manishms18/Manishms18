@@ -1,7 +1,5 @@
 # 🚀 Manish A. Shukla  
-*Independent Researcher | AI & Data Science | Explainable AI | Agentic Systems*  
-
-🔗 [Website](https://www.manishshukla.com) • [Google Scholar](https://scholar.google.com/citations?user=o2JtbFUAAAAJ&hl=en) • [LinkedIn](https://www.linkedin.com/in/manishshukla-ms/) • [Medium](https://medium.com/@manishshukla.ms18) • [GitHub](https://github.com/Manishms18)  
+*Independent Researcher | AI & Data Science | Explainable AI | Agentic Systems*   
 
 ---
 
