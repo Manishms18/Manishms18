@@ -1,11 +1,12 @@
 ## 👋 Welcome!  
-I am an **Independent Researcher** specializing in **Artificial Intelligence, Machine Learning, and Data Science**.  
-My work emphasizes:  
-- **Explainable AI (XAI)** – advancing trust and interpretability in ML models.  
-- **Agentic AI Systems** – resilient orchestration of multi-agent workflows.  
-- **Forecasting & Optimization** – leakage-free pipelines for aviation, energy, retail, and healthcare.  
 
-I aim to bridge **theory and practice**, making AI systems **transparent, impactful, and socially responsible**.  
+- **Independent Researcher** specializing in Artificial Intelligence, Machine Learning, and Data Science.  
+- Focus on **transparent and trustworthy AI systems** that advance real-world impact.  
+- Expertise in:  
+  - **Explainable AI (XAI):** improving interpretability, trust, and accountability in ML models.  
+  - **Agentic AI Systems:** designing adaptive, multi-agent orchestration for robust decision-making.  
+  - **Forecasting & Optimization:** developing leakage-free pipelines applied to aviation, energy, retail, and healthcare.  
+- Dedicated to **bridging theory and practice**, ensuring AI innovations are impactful, socially responsible, and aligned with national priorities.   
 
 ---
 
