@@ -23,7 +23,7 @@
 [![Issues](https://img.shields.io/github/issues/harshbg/Sign-Language-Interpreter-using-Deep-Learning)](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning/issues)
 
 
-### 📊 [Time Series Forecasting with XGBoost & ARIMA](https://github.com/Manishms18)  
+### 📊 [Time-Series-Interpretation-Lime-Shap](https://github.com/Manishms18/Time-Series-Interpretation-Lime-Shap)  
 - Built a **unified pipeline** combining statistical and ML models.  
 - Integrated **SHAP, LIME, and Permutation Importance** for transparent results.  
 
